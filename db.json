@@ -1,0 +1,29 @@
+{
+  "students": [
+    {
+      "id": "2",
+      "name": "Sruthi",
+      "place": "Chengannur",
+      "mobile": "7871000398"
+    },
+    {
+      "id": "3",
+      "name": "A. G .Sathish",
+      "place": "Chengannur",
+      "mobile": "9444091890"
+    },
+    {
+      "id": "14",
+      "name": "Latha",
+      "place": "Chengannur",
+      "mobile": "8838572364"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "email": "wajid.webdschool@gmail.com",
+      "password": "1234567890"
+    }
+  ]
+}
